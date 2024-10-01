@@ -2,8 +2,8 @@ import os
 import glob
 
 # Folder containing input files
-input_folder = '/Users/chmidnight/Desktop/PAPI_label_YOLO_180824_Edit/labels/'  # Replace with the actual folder path
-output_folder = '/Users/chmidnight/Desktop/PAPI_label_YOLO_180824_Edit/Edited/'  # Directory to save the processed files
+input_folder = '/path/'  # Replace with the actual folder path
+output_folder = '/path/'  # Directory to save the processed files
 
 # Create the output folder if it doesn't exist
 if not os.path.exists(output_folder):
